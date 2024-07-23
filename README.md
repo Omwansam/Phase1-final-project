@@ -1,1 +1,4 @@
 # Phase1-final-project
+
+E-Commerce website struggles to provide a seamless and engaging shopping experience for its users. Customers face difficulties navigating a cluttered interface, finding products due to ineffective search and filtering options, and making informed purchase decisions because of low-quality images and insufficient product descriptions. Additionally, the lack of personalized recommendations and targeted offers results in lower engagement and missed sales opportunities. 
+Concerns over payment security and limited customer service options further erode trust and satisfaction. Lastly, the non-responsive website design delivers a suboptimal experience for mobile users, significantly impacting mobile commerce potential. These issues collectively hinder customer satisfaction and business growth.
